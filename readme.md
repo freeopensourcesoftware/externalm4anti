@@ -10,12 +10,11 @@
 
 **Step 5:** Profit??? idk  
 
-
-**CMD**
+**CMD**  
 ![CMD](https://files.catbox.moe/4cnc7k.png)
 
-**Before**
+**Before**  
 ![Before](https://files.catbox.moe/9fdhju.png)
 
-**After**
+**After**  
 ![After](https://files.catbox.moe/l84crn.png)
