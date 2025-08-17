@@ -1,4 +1,8 @@
-Run the exe as admin, from either building it or from release
+Step 1: Have vrchat open
+Step 2: Join a murder 4
+Step 3: Run the exe as **ADMIN**
+Step 4: Rejoin the instance
+Step 5: Profit??? idk
 
 **CMD**  
 ![CMD](https://files.catbox.moe/4cnc7k.png)
